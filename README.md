@@ -27,12 +27,24 @@ This code snippet showcases the utilization of **Intel's scikit and Keras** libr
 
 ![Input](images/Prescription.png)
 
+> Output
+
+![Output](images/ocr_op.jpeg)
+
 **Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Text-To-Outfit-Generator)
 
 <a name="Chat-Bot"></a>
 ## Chat-Bot 💬🤖
 
 This code involves configuring a chatbot powered by the **Mistral 7B model**, fine-tuned with a specialized dataset. Utilizing transformers and Langchain embeddings, the chatbot provides essential information on medication usage, contraindications, dosage instructions, general properties, and warnings. It encompasses installing dependencies, loading the dataset, configuring the Mistral 7B model for language generation, and setting up Langchain embeddings for semantic understanding. The chatbot's query engine is then initialized to facilitate inquiries about medications, ensuring accurate responses and efficient performance. 🤖💊🔍📋
+
+> Output of Chatbot
+
+![cb1](images/chatbot1.jpeg)
+![cb2](images/chatbot2.jpeg)
+![cb3](images/chatbot3.jpeg)
+![cb4](images/chatbot4.jpeg)
+![cb5](images/chatbot5.jpeg)
 
 **Hugging Face URL** : [Chat-Bot](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
 
