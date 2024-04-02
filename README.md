@@ -23,8 +23,9 @@ Our revolutionary chatbot transforms your medical experience by providing detail
 ## Optical-Character-Recognition 📝🔠
 
 This code snippet showcases the utilization of **Intel's scikit and Keras** libraries for Optical Character Recognition (OCR). By efficiently processing images containing text, the system accurately extracts and recognizes characters, enabling the identification of medicines from prescriptions. Leveraging **Intel's CPU or XPU** ensures swift completion, typically in less than a minute, highlighting the advantages of optimized processing capabilities. Notably, running this code in **Google Colab** may exceed 15 minutes due to hardware limitations. ⚙️🔍💊💡
+> Input Image
 
-![generated image](images/shirt.jpeg)
+![Input](images/Prescription.png)
 
 **Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Text-To-Outfit-Generator)
 
