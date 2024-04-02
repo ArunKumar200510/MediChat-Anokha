@@ -64,6 +64,7 @@ This code snippet illustrates the implementation of a **brain tumor prediction m
 This code snippet showcases an appointment booking system that utilizes **Streamlit** for the user interface and MongoDB for storing appointment data. By leveraging Streamlit's interactive features, users can easily book appointments, while **MongoDB** efficiently handles data storage and retrieval. The system provides a seamless experience for both users and administrators, allowing for streamlined appointment management. 📅💼📊🔒
 
 > Appointment Pdf
+![appoint](images/appointment.jpeg)
 
 
 # Usage of Intel Developer Cloud 🌐💻
