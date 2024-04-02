@@ -32,7 +32,7 @@ This code snippet showcases the utilization of **Intel's scikit and Keras** libr
 
 ![Output](images/ocr_op.jpeg)
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Text-To-Outfit-Generator)
+**Folder Link** : [Click Here](https://github.com/ArunKumar200510/MediChat-Anokha/tree/main/Optical-Character-Recognition)
 
 <a name="Chat-Bot"></a>
 ## Chat-Bot 💬🤖
@@ -49,21 +49,22 @@ This code involves configuring a chatbot powered by the **Mistral 7B model**, fi
 
 **Hugging Face URL** : [Chat-Bot](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Text-To-Outfit-Generator)
+**Folder Link** : [Click Here](https://github.com/ArunKumar200510/MediChat-Anokha/tree/main/Chat-Bot)
 
 <a name="BTP"></a>
 ## Brain-Tumor-Prediction 🧠🛡️
 
 This code snippet illustrates the implementation of a **brain tumor prediction model using PyTorch**, enhanced by Intel's optimizations. Leveraging PyTorch's capabilities alongside Intel's enhancements, the system efficiently processes medical imaging data to predict and classify brain tumors accurately. This integration ensures optimized performance, facilitating swift completion of prediction tasks. Emphasizing the potential of AI in medical diagnostics, the model offers a promising avenue for early detection and intervention. 🧠🔬🔍🚀
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Text-To-Outfit-Generator)
+**Folder Link** : [Click Here](https://github.com/ArunKumar200510/MediChat-Anokha/tree/main/Brain-Tumor-Prediction)
 
 <a name="appointment"></a>
 ## Appointment-Booking 🗓️✅
 
 This code snippet showcases an appointment booking system that utilizes **Streamlit** for the user interface and MongoDB for storing appointment data. By leveraging Streamlit's interactive features, users can easily book appointments, while **MongoDB** efficiently handles data storage and retrieval. The system provides a seamless experience for both users and administrators, allowing for streamlined appointment management. 📅💼📊🔒
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Text-To-Outfit-Generator)
+> Appointment Pdf
+
 
 # Usage of Intel Developer Cloud 🌐💻
 
