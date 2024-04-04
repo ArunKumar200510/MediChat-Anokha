@@ -25,6 +25,8 @@ import tensorflow
 import pickle
 import requests
 
+
+
 ori_data = {}
 pdf = ''  
 
@@ -173,7 +175,7 @@ def show():
     with st_lottie_spinner(hello,width=500, height=200,key="main"):
         time.sleep(5)
 def medical_bot():
-    os.environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
+    os.environ['HUGGINGFACEHUB_API_TOKEN'] = SECRET_API_TOKEN
 
     #ocr
     left_column, right_column = st.columns((2,5))
