@@ -47,7 +47,7 @@ This code involves configuring a chatbot powered by the **Intel Neural chat 7b-v
 ![cb4](images/chatbot4.jpeg)
 ![cb5](images/chatbot5.jpeg)
 
-**Hugging Face URL** : [Chat-Bot](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
+**Hugging Face URL** : [Chat-Bot](https://huggingface.co/Intel/neural-chat-7b-v3-1)
 
 **Folder Link** : [Click Here](https://github.com/ArunKumar200510/MediChat-Anokha/tree/main/Chat-Bot)
 
