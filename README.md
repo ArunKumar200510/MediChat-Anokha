@@ -37,7 +37,7 @@ This code snippet showcases the utilization of **Intel's scikit and Keras** libr
 <a name="Chat-Bot"></a>
 ## Chat-Bot 💬🤖
 
-This code involves configuring a chatbot powered by the **Mistral 7B model**, fine-tuned with a specialized dataset. Utilizing transformers and Langchain embeddings, the chatbot provides essential information on medication usage, contraindications, dosage instructions, general properties, and warnings. It encompasses installing dependencies, loading the dataset, configuring the Mistral 7B model for language generation, and setting up Langchain embeddings for semantic understanding. The chatbot's query engine is then initialized to facilitate inquiries about medications, ensuring accurate responses and efficient performance. 🤖💊🔍📋
+This code involves configuring a chatbot powered by the **Intel Neural chat 7b-v3-1**, fine-tuned with a specialized dataset. Utilizing transformers and Langchain embeddings, the chatbot provides essential information on medication usage, contraindications, dosage instructions, general properties, and warnings. It encompasses installing dependencies, loading the dataset, configuring the Mistral 7B model for language generation, and setting up Langchain embeddings for semantic understanding. The chatbot's query engine is then initialized to facilitate inquiries about medications, ensuring accurate responses and efficient performance. 🤖💊🔍📋
 
 > Output of Chatbot
 
